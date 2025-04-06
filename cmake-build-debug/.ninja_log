@@ -1,0 +1,20 @@
+# ninja log v6
+22	615	7655263057542615	CMakeFiles/cf.dir/LongestPalindromeSubstring.cpp.obj	1dc2f56b068c25a3
+57	843	7655211036359286	CMakeFiles/cf.dir/main.cpp.obj	b9689241358454e9
+616	754	7655263063485995	cf.exe	114fbd39b4fdb5e3
+9	579	7656058985895875	build.ninja	bb1d2c9fc120d93f
+57	717	7656243982753724	CMakeFiles/cf.dir/ThePlayNeverEnds.cpp.obj	63fcce7333dd2711
+65	854	7656243982836450	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+29	839	7656244440212328	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+840	966	7656244448316988	cf.exe	f63dec4fa253bed7
+29	822	7656244708551187	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+825	976	7656244716507205	cf.exe	f63dec4fa253bed7
+28	739	7656252477882950	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+26	731	7656252665616984	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+732	862	7656252672670722	cf.exe	f63dec4fa253bed7
+30	776	7656254617151805	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+777	921	7656254624610200	cf.exe	f63dec4fa253bed7
+29	728	7656257392508731	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+729	861	7656257399509468	cf.exe	f63dec4fa253bed7
+24	838	7656259892491398	CMakeFiles/cf.dir/ServalAndStringTheory.cpp.obj	87ad39c903219e4d
+839	977	7656259900639019	cf.exe	f63dec4fa253bed7
